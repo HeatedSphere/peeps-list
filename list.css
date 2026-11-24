@@ -13,3 +13,12 @@
 @media(max-width:480px){.header-menu{gap:8px}.header-menu button,.header-menu>a{font-size:10px}.header-menu small{font-size:8px}.brand span{font-size:11px}.challenge-entry{display:block;padding:15px}.video-thumbnail{width:100%;aspect-ratio:16/9;margin-bottom:14px}.entry-info h2{font-size:23px}.entry-info h3{font-size:16px}.entry-info p{font-size:14px}.entry-meta{font-size:12px}.section-top h2{font-size:22px}.site-nav button{font-size:13px}.primary,.secondary{font-size:14px}.guidelines h2{font-size:23px}.modal h2{font-size:23px}footer{font-size:12px}}
 .is-list .section-top{display:none}.is-list.admin-view .section-top{display:flex;justify-content:flex-end;margin-bottom:15px}.is-list .section-top>div,.is-list .section-top .icon-button{display:none}.list-filter{text-align:left;margin:0 0 20px;font-size:14px;color:#666}.list-filter summary{cursor:pointer}.list-filter .search{margin:10px 0 0}.list-filter input{width:100%;font-size:13px}.is-list .challenge-entry:first-of-type{margin-top:0}
 @media(max-width:480px){.header-menu{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 12px}.header-menu button,.header-menu>a{font-size:14px;white-space:normal;line-height:1.2}.header-menu small{font-size:10px}.header-inner{gap:20px}.site-nav button{font-size:14px}}
+
+.verifier-credit{font-size:.9rem;margin:.25rem 0}
+.player-stats{padding:1.25rem;border-top:1px solid var(--line)}
+.player-stats h2,.player-stats h3{margin:0 0 .6rem}
+.player-stats section{margin:1rem 0}
+.player-stats dl{margin:0}
+.player-stats dl div{display:flex;align-items:baseline;gap:1rem;padding:.45rem 0;border-top:1px solid var(--line);overflow-wrap:anywhere}
+.player-stats dt{font-weight:600}
+.player-stats dd{margin:0;flex:1}
